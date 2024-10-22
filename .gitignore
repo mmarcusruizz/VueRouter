@@ -1,0 +1,27 @@
+# See https://git-scm.com/docs/gitignore
+
+# Node modules cache
+node_modules/
+
+# Dist and build folders
+dist/
+build/
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Logs and temp files
+logs/
+*.log
+tmp/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Specific to some IDEs and version control tools
+# List them out here
+
+# npm ci cache
+npm-debug.log*
